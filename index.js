@@ -1,1 +1,1 @@
-console.log("Welcome to your Meraki File!")
+console.log("Welcome to your Meraki")
